@@ -1,6 +1,6 @@
-# Invasive-algae-urchin-biocontrol
+# Invasive algae urchin biocontrol
 This project assessing manual removal and sea urchin biocontrol as a method for controlling invasive algae on coral reefs in Hawai'i. 
-It is a collaboration between The State of Hawai'i Division of Land and Natural Ressources/Division of Aquartic Resources, Hawai'i Institute of Marine Biology, the University of Hawai'i at Mānoa, and considerable support from non-governmental organizations and conservation groups. A published manuscript for this project can be accessed at PeerJ. A DOI archive of this project can be found at Zenodo: [10.5281/zenodo.1285550] (10.5281/zenodo.1285550)
+It is a collaboration between The State of Hawai'i Division of Land and Natural Ressources/Division of Aquartic Resources, Hawai'i Institute of Marine Biology, the University of Hawai'i at Mānoa, and considerable support from non-governmental organizations and conservation groups. A published manuscript for this project can be accessed at PeerJ. A DOI archive of this project can be found at Zenodo: http://doi.org/10.5281/zenodo.1285551
 
 Neilson, B. J., C. B. Wall, F. T. Mancini, and C. A. Gewecke. 2018. Herbivore biocontrol and manual removal successfully reduce invasive macroalgae on coral reefs. PeerJ 6: e5332.
 https://peerj.com/articles/5332/
